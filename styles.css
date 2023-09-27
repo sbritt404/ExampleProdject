@@ -1,20 +1,31 @@
 body{
-    background-color:rgb(255,192,203);
-    color:indigo;
+    background:linear-gradient(180deg,white,white,white,rgb(248, 199, 233),rgb(233, 124, 229));
+    color:rgb(126, 7, 212);
 }
 
 h1{
     font-size:40px;
-     font-family: 'Franklin Gothic Medium', 'Arial Narrow';
-     border: 8px white dotted;
-     font-size:42px;
-     display: inline;
-    }
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    border: 8px rgb(255, 108, 255) dotted;
+    font-size:42px;
+    display:inline-block;
+}
 
 h3{
     font-family: 'Aclonica', 'Helvetica';
     font-size: 22px
 }
 
+.cats{
+    text-align: center;
+}
 
+.list{
+    list-style-position: inside;
+    text-align: center;
+}
 
+ol,.list,li{
+    text-align: left;
+    margin-left: 25%;
+}
