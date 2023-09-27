@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(255,192,203);
+    color:indigo;
+}
+
+h1{
+    font-size:40px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+     border: 8px white dotted;
+     font-size:42px;
+     display: inline;
+    }
+
+h3{
+    font-family: 'Aclonica', 'Helvetica';
+    font-size: 22px
+}
+
+
+
